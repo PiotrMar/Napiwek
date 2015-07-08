@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PIOTR</Machine>
+    <WindowsUser>Piotr</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a95d4f39-3165-46ff-bb70-111ba85ecac2</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\bin\Debug\Napiwek.exe">
+      <PackagePath>Napiwek.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\bgnowe.scale-100.png">
+      <PackagePath>Assets\bgnowe.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\icon 150x150.scale-100.png">
+      <PackagePath>Assets\icon 150x150.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\icon 62x62.scale-140.png">
+      <PackagePath>Assets\icon 62x62.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\icon310x150.scale-100.png">
+      <PackagePath>Assets\icon310x150.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\icon70x70.scale-140.png">
+      <PackagePath>Assets\icon70x70.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\icon71x71.scale-100.png">
+      <PackagePath>Assets\icon71x71.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\ikona106x106.scale-240.png">
+      <PackagePath>Assets\ikona106x106.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\ikona120x120.scale-240.png">
+      <PackagePath>Assets\ikona120x120.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\ikona170x170.scale-240.png">
+      <PackagePath>Assets\ikona170x170.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\ikona360x360.scale-240.png">
+      <PackagePath>Assets\ikona360x360.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\ikona58x58.scale-240.png">
+      <PackagePath>Assets\ikona58x58.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\ikona744x360.scale-240.png">
+      <PackagePath>Assets\ikona744x360.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\Assets\Untitled-1.jpg">
+      <PackagePath>Assets\Untitled-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\bin\Debug\Napiwek.xr.xml">
+      <PackagePath>Napiwek.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piotr\Documents\Visual Studio 2013\Projects\Napiwek\Napiwek\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
