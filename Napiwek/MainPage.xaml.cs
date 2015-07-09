@@ -116,11 +116,11 @@ namespace Napiwek
         }
 
         private void WartoscNapiwku_KeyUp(object sender, KeyRoutedEventArgs e)
-        {
+        { //for USA must be . rather then ,
             TextBox txt = (TextBox)sender;
-            if (txt.Text.Contains('.'))
+            if (txt.Text.Contains(','))
             {
-                txt.Text = txt.Text.Replace(".", "");
+                txt.Text = txt.Text.Replace(",", "");
                 txt.SelectionStart = txt.Text.Length;
             }
         }
