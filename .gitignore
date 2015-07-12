@@ -19,3 +19,5 @@ Thumbs.db
 obj/
 [Rr]elease*/
 _ReSharper*/
+#Ignore files v12.suo
+*.v12.suo
