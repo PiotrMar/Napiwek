@@ -13,7 +13,10 @@ Thumbs.db
 *.cache
 *.ilk
 *.log
+Package.StoreAssociation.xml
+[Aa]ppPackages
 [Bb]in
+[Bb]undleArtifacts
 [Dd]ebug*/
 *.sbr
 obj/
